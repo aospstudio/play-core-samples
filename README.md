@@ -11,7 +11,7 @@ AndroidX libraries,
 Kotlin or Java
 ```
 
-## Screenshoots
+## Screenshots
 <img src="https://raw.githubusercontent.com/aospstudio/play-core-samples/main/screenshots/ss1.png" width="45%"></img>
 
 ## License
